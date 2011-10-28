@@ -4,5 +4,6 @@ SFL Heritage
 A Nigerian scam story random generator.
 
 Original credits go to:
+
 * Hussein Abdallah
 * Jérôme Oufella
